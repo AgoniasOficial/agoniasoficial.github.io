@@ -1,2 +1,8 @@
 _site/
 .sass-cache/
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
