@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Google Developers Group"
-date:   2015-10-11 04:34:20
-categories: GDG
-highlight: false
-image: http://4.bp.blogspot.com/-IOD6VutWGlA/UW8Jq05M0DI/AAAAAAAAAeA/OVckWFybKqg/s1600/DSC01317.JPG
+title:  "Ruta del Kinto is Coming..."
+date:   2017-09-08 08:25:20
+categories: RutaDelKinto
+highlight: true
+image: http://localhost:4000/img/ruta_2017_chapa.jpg
 ---
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci.
 
-![Dev Image](http://4.bp.blogspot.com/-IOD6VutWGlA/UW8Jq05M0DI/AAAAAAAAAeA/OVckWFybKqg/s1600/DSC01317.JPG)
+![Dev Image]({{ site.url }}/img/ruta_2017_chapa.jpg)
 
 Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
 
