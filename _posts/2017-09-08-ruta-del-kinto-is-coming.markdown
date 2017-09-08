@@ -4,7 +4,7 @@ title:  "Ruta del Kinto is Coming..."
 date:   2017-09-08 08:25:20
 categories: RutaDelKinto
 highlight: true
-image: http://localhost:4000/img/ruta_2017_chapa.jpg
+image: https://agoniasoficial.github.io/img/ruta_2017_chapa.jpg
 ---
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci.
 
