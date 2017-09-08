@@ -3,15 +3,17 @@ title: Agonías
 email: agoniasoficial@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Todo comenzó hace más de 10 años durante un torneo de fútbol veraniego.
-  Desde entonces miles de anécdotas, historias, momentos, nos acompañan.
+  Desde entonces miles de anécdotas, historias y momentos nos acompañan.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://agoniasoficial.github.io/" # the base hostname & protocol for your site
 twitter_username: AgoniasOficial
-github_username:  AgoniasOficial
-google_play: 'GDGX'
-google_plus_com: '109485346959707049693'  # Community link
-google_plus_per: '+GDGManagua'  #Personal link
-facebook_app_id: 12345
+instagram_username: agonias_oficial
+facebook_username: AgoniasOficial
+#github_username:  AgoniasOficial
+#google_play: 'GDGX'
+#google_plus_com: '109485346959707049693'  # Community link
+#google_plus_per: '+GDGManagua'  #Personal link
+#facebook_app_id: 12345
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
@@ -20,14 +22,14 @@ pagination_type: default  # values [ ops, default ]
 
 more_vert:
   option1:
-    name: Cool Option 1
-    link: www.myawesomelink.com
+    name: Twitter
+    link: https://twitter.com/AgoniasOficial
   option2:
-    name: Cool Option 2
-    link: www.myawesomelink.com
+    name: Instagram
+    link: https://www.instagram.com/agonias_oficial/
   option3:
-    name: Cool Option 3
-    link: www.myawesomelink.com
+    name: Facebook
+    link: https://www.facebook.com/AgoniasOficial/
 
 disqus: false
 disqus_shortname: 'gdgmanagua'
