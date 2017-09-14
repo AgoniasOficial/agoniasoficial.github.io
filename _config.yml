@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Todo comenzó hace más de 10 años durante un torneo de fútbol veraniego.
   Desde entonces miles de anécdotas, historias y momentos nos acompañan.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://agoniasoficial.github.io/" # the base hostname & protocol for your site
+url: "https://agoniasoficial.github.io" # the base hostname & protocol for your site
 twitter_username: AgoniasOficial
 instagram_username: agonias_oficial
 facebook_username: AgoniasOficial
